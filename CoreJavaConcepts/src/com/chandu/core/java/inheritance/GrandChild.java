@@ -9,7 +9,7 @@ public class GrandChild extends Child {
 
 	public static void main(String[] args) {
 		GrandChild gc = new GrandChild();
-		
+		// The GrandChild can access the GrandChild methods and its parents(Child) inhertied methods - and any methods that Child can access.
 		gc.childmanners();
 		gc.grandchildmanners();
 		gc.parentgoodmanners();
