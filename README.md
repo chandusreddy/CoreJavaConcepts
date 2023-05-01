@@ -5,3 +5,5 @@ OOPS Concepts
 - Aggregation
 - Polymorphsim
 - Overriding and Overloading
+- Inheritance
+
