@@ -6,6 +6,7 @@ public class AbstractClassTest {
 		B b = new B();
 		b.hi();
 		b.bye();
+		
 	}
 
 }
