@@ -26,10 +26,10 @@ public class ClassMethodTest
 		System.out.println("staticVar : " + staticVar);
 		staticMethod();
 
-		System.out.println("instanceVar : " + instanceVar);
-		instanceMethod1();
+		//System.out.println("instanceVar : " + instanceVar);
+		//instanceMethod1();
 
-		System.out.println(this.instanceVar);
+		//System.out.println(this.instanceVar);
 		
 		ClassMethodTest classMethodTest = new ClassMethodTest();
 		
