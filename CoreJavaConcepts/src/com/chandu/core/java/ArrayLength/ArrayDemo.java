@@ -2,7 +2,7 @@ package com.chandu.core.java.ArrayLength;
 
 class ArrayDemo {
 	public static void main(String[] args) {
-		// declares an array of shorts
+		//declares an array of shorts
 		short[] shortArray;
 
 		// allocates memory for 7 shorts
